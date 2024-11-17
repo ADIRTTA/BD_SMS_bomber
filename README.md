@@ -13,4 +13,10 @@ pkg install python3
 
 pkg install git 
 
-git clone
+git clone https://github.com/ADIRTTA/BD_SMS_bomber.git
+
+cd BD_SMS_bomber
+
+chmod +x *
+
+python3 SHADOW-STRIKER-BOMB.py
