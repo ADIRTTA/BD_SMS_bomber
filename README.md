@@ -3,6 +3,8 @@ Sms Bobming tool of TEAM SHADOW STRIKER
 
 # COMMAND
 
+rm -rf BD_SMS_bomber
+
 pkg update 
 
 pkg upgarde
