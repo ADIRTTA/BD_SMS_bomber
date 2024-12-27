@@ -2,7 +2,7 @@
 Sms Bobming tool of TEAM SHADOW STRIKER 
 
 # COMMAND
-
+```bash
 rm -rf BD_SMS_bomber
 
 pkg update 
@@ -22,6 +22,6 @@ cd BD_SMS_bomber
 chmod +x *
 
 python3 SHADOW-STRIKER-BOMB.py
-
+````
 
 ## just copy and paste
